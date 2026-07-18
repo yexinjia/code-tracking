@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-18",
+  "projects": {
+    "repo-copilot": {
+      "totalLinesAdded": 387,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/nietao/VSCode-plugins/repo-copilot/package.json": [
+          {
+            "timestamp": "2026-07-18T10:49:26.953Z",
+            "fileName": "/Users/nietao/VSCode-plugins/repo-copilot/package.json",
+            "fileType": ".json",
+            "linesAdded": 387,
+            "linesRemoved": 0,
+            "projectName": "repo-copilot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "18": 0
+      },
+      "topFiles": [
+        "/Users/nietao/VSCode-plugins/repo-copilot/package.json"
+      ],
+      "averageChangeSize": 387
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    18
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
