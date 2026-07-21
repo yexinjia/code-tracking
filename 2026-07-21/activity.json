@@ -2,9 +2,9 @@
   "date": "2026-07-21",
   "projects": {
     "repo-copilot": {
-      "totalLinesAdded": 675,
+      "totalLinesAdded": 734,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 4,
       "files": {
         "/Users/nietao/VSCode-plugins/repo-copilot/src/test/personalCommitHistory.test.ts": [
           {
@@ -26,6 +26,34 @@
             "fileName": "/Users/nietao/VSCode-plugins/repo-copilot/src/test/personalCommitHistory.test.ts",
             "fileType": ".ts",
             "linesAdded": 99,
+            "linesRemoved": 0,
+            "projectName": "repo-copilot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-07-21T14:45:16.957Z",
+            "fileName": "/Users/nietao/VSCode-plugins/repo-copilot/src/test/personalCommitHistory.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "repo-copilot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-07-21T14:45:17.651Z",
+            "fileName": "/Users/nietao/VSCode-plugins/repo-copilot/src/test/personalCommitHistory.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 54,
             "linesRemoved": 0,
             "projectName": "repo-copilot",
             "content": {
