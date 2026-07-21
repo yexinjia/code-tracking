@@ -75,6 +75,109 @@
         "/Users/nietao/VSCode-plugins/repo-copilot/src/test/personalCommitHistory.test.ts"
       ],
       "averageChangeSize": 337.5
+    },
+    "mono-test": {
+      "totalLinesAdded": 66,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 7,
+      "files": {
+        "/Users/nietao/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2026-07-21T14:50:34.778Z",
+            "fileName": "/Users/nietao/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-07-21T14:50:34.804Z",
+            "fileName": "/Users/nietao/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-07-21T14:50:34.823Z",
+            "fileName": "/Users/nietao/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-07-21T14:50:34.850Z",
+            "fileName": "/Users/nietao/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-07-21T14:53:33.508Z",
+            "fileName": "/Users/nietao/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-07-21T14:53:38.102Z",
+            "fileName": "/Users/nietao/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 7
+      },
+      "changeFrequency": {
+        "22": 7
+      },
+      "topFiles": [
+        "/Users/nietao/Library/Application Support/Code/User/settings.json"
+      ],
+      "averageChangeSize": 11.5
     }
   },
   "totalActiveTime": 1,
