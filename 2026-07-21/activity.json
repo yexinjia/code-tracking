@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-21",
+  "projects": {
+    "repo-copilot": {
+      "totalLinesAdded": 675,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/nietao/VSCode-plugins/repo-copilot/src/test/personalCommitHistory.test.ts": [
+          {
+            "timestamp": "2026-07-21T14:43:19.667Z",
+            "fileName": "/Users/nietao/VSCode-plugins/repo-copilot/src/test/personalCommitHistory.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 576,
+            "linesRemoved": 0,
+            "projectName": "repo-copilot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-07-21T14:43:20.428Z",
+            "fileName": "/Users/nietao/VSCode-plugins/repo-copilot/src/test/personalCommitHistory.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 99,
+            "linesRemoved": 0,
+            "projectName": "repo-copilot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 1
+      },
+      "changeFrequency": {
+        "22": 1
+      },
+      "topFiles": [
+        "/Users/nietao/VSCode-plugins/repo-copilot/src/test/personalCommitHistory.test.ts"
+      ],
+      "averageChangeSize": 337.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    22
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}
