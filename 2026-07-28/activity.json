@@ -33,6 +33,39 @@
         "/Users/nietao/VSCode-plugins/repo-copilot/package.json"
       ],
       "averageChangeSize": 417
+    },
+    "mono-test": {
+      "totalLinesAdded": 3,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/nietao/VSCode-plugins/mono-test/.vscode/settings.json": [
+          {
+            "timestamp": "2026-07-28T14:43:15.909Z",
+            "fileName": "/Users/nietao/VSCode-plugins/mono-test/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "22": 0
+      },
+      "topFiles": [
+        "/Users/nietao/VSCode-plugins/mono-test/.vscode/settings.json"
+      ],
+      "averageChangeSize": 3
     }
   },
   "totalActiveTime": 0,
