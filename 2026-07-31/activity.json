@@ -2,9 +2,9 @@
   "date": "2026-07-31",
   "projects": {
     "mono-test": {
-      "totalLinesAdded": 123,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 127,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 14,
       "files": {
         "/Users/nietao/Library/Application Support/Code/User/settings.json": [
           {
@@ -90,6 +90,90 @@
             },
             "duration": 0,
             "language": "json"
+          },
+          {
+            "timestamp": "2026-07-31T14:59:27.503Z",
+            "fileName": "/Users/nietao/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-07-31T15:00:14.666Z",
+            "fileName": "/Users/nietao/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-07-31T15:00:17.642Z",
+            "fileName": "/Users/nietao/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-07-31T15:00:22.130Z",
+            "fileName": "/Users/nietao/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-07-31T15:00:23.660Z",
+            "fileName": "/Users/nietao/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-07-31T15:00:27.487Z",
+            "fileName": "/Users/nietao/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "/Users/nietao/VSCode-plugins/mono-test/zhenhe-internet-hospital-patient-terminal/main.js": [
@@ -123,6 +207,20 @@
           },
           {
             "timestamp": "2026-07-31T14:57:46.589Z",
+            "fileName": "/Users/nietao/VSCode-plugins/mono-test/zhenhe-internet-hospital-patient-terminal/main.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-07-31T15:00:37.533Z",
             "fileName": "/Users/nietao/VSCode-plugins/mono-test/zhenhe-internet-hospital-patient-terminal/main.js",
             "fileType": ".js",
             "linesAdded": 1,
