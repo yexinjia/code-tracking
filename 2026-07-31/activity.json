@@ -1,0 +1,75 @@
+{
+  "date": "2026-07-31",
+  "projects": {
+    "mono-test": {
+      "totalLinesAdded": 66,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 3,
+      "files": {
+        "/Users/nietao/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2026-07-31T13:39:21.252Z",
+            "fileName": "/Users/nietao/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-07-31T13:41:08.962Z",
+            "fileName": "/Users/nietao/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-07-31T13:41:16.388Z",
+            "fileName": "/Users/nietao/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 3
+      },
+      "changeFrequency": {
+        "21": 3
+      },
+      "topFiles": [
+        "/Users/nietao/Library/Application Support/Code/User/settings.json"
+      ],
+      "averageChangeSize": 22.333333333333332
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    21
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
