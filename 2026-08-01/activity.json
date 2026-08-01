@@ -35,9 +35,9 @@
       "averageChangeSize": 932
     },
     "mono-test": {
-      "totalLinesAdded": 211,
-      "totalLinesRemoved": 12,
-      "totalActiveTime": 7,
+      "totalLinesAdded": 253,
+      "totalLinesRemoved": 17,
+      "totalActiveTime": 10,
       "files": {
         "/Users/nietao/Library/Application Support/Code/User/settings.json": [
           {
@@ -167,6 +167,50 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2026-08-01T06:06:00.798Z",
+            "fileName": "/Users/nietao/VSCode-plugins/mono-test/zhenhe-internet-hospital-patient-terminal/main.js",
+            "fileType": ".js",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-08-01T06:07:04.270Z",
+            "fileName": "/Users/nietao/VSCode-plugins/mono-test/zhenhe-internet-hospital-patient-terminal/main.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          }
+        ],
+        "/Users/nietao/VSCode-plugins/mono-test/zhenhe-internet-hospital-patient-terminal/.git/COMMIT_EDITMSG": [
+          {
+            "timestamp": "2026-08-01T06:05:44.718Z",
+            "fileName": "/Users/nietao/VSCode-plugins/mono-test/zhenhe-internet-hospital-patient-terminal/.git/COMMIT_EDITMSG",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },
