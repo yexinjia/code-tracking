@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-01",
+  "projects": {
+    "smart-commit": {
+      "totalLinesAdded": 932,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/nietao/VSCode-plugins/smart-commit/package.json": [
+          {
+            "timestamp": "2026-08-01T03:26:23.215Z",
+            "fileName": "/Users/nietao/VSCode-plugins/smart-commit/package.json",
+            "fileType": ".json",
+            "linesAdded": 932,
+            "linesRemoved": 0,
+            "projectName": "smart-commit",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "/Users/nietao/VSCode-plugins/smart-commit/package.json"
+      ],
+      "averageChangeSize": 932
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
