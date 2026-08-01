@@ -35,7 +35,7 @@
       "averageChangeSize": 932
     },
     "mono-test": {
-      "totalLinesAdded": 143,
+      "totalLinesAdded": 193,
       "totalLinesRemoved": 2,
       "totalActiveTime": 3,
       "files": {
@@ -109,6 +109,22 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "/Users/nietao/VSCode-plugins/mono-test/zhenhe-internet-hospital-patient-terminal/main.js": [
+          {
+            "timestamp": "2026-08-01T03:57:02.726Z",
+            "fileName": "/Users/nietao/VSCode-plugins/mono-test/zhenhe-internet-hospital-patient-terminal/main.js",
+            "fileType": ".js",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },
