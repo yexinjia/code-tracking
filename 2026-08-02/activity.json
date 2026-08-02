@@ -1,0 +1,75 @@
+{
+  "date": "2026-08-02",
+  "projects": {
+    "zhenhe-internet-hospital-patient-terminal": {
+      "totalLinesAdded": 41,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/nietao/Documents/HBuilderProjects/zhenhe-internet-hospital-patient-terminal/main.js": [
+          {
+            "timestamp": "2026-08-02T07:08:44.459Z",
+            "fileName": "/Users/nietao/Documents/HBuilderProjects/zhenhe-internet-hospital-patient-terminal/main.js",
+            "fileType": ".js",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "zhenhe-internet-hospital-patient-terminal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-08-02T07:08:44.965Z",
+            "fileName": "/Users/nietao/Documents/HBuilderProjects/zhenhe-internet-hospital-patient-terminal/main.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "zhenhe-internet-hospital-patient-terminal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-08-02T07:08:45.864Z",
+            "fileName": "/Users/nietao/Documents/HBuilderProjects/zhenhe-internet-hospital-patient-terminal/main.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "zhenhe-internet-hospital-patient-terminal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 2
+      },
+      "changeFrequency": {
+        "15": 2
+      },
+      "topFiles": [
+        "/Users/nietao/Documents/HBuilderProjects/zhenhe-internet-hospital-patient-terminal/main.js"
+      ],
+      "averageChangeSize": 14.333333333333334
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "js"
+  ]
+}
