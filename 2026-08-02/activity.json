@@ -2,7 +2,7 @@
   "date": "2026-08-02",
   "projects": {
     "zhenhe-internet-hospital-patient-terminal": {
-      "totalLinesAdded": 41,
+      "totalLinesAdded": 147,
       "totalLinesRemoved": 2,
       "totalActiveTime": 2,
       "files": {
@@ -48,6 +48,22 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/nietao/Documents/HBuilderProjects/zhenhe-internet-hospital-patient-terminal/.smart-commit-pr.local.json": [
+          {
+            "timestamp": "2026-08-02T07:14:02.418Z",
+            "fileName": "/Users/nietao/Documents/HBuilderProjects/zhenhe-internet-hospital-patient-terminal/.smart-commit-pr.local.json",
+            "fileType": ".json",
+            "linesAdded": 106,
+            "linesRemoved": 0,
+            "projectName": "zhenhe-internet-hospital-patient-terminal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
