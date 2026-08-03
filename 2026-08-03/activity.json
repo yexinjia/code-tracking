@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-03",
+  "projects": {
+    "zhenhe-internet-hospital-patient-terminal": {
+      "totalLinesAdded": 110,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/nietao/Documents/HBuilderProjects/zhenhe-internet-hospital-patient-terminal/.smart-commit-pr.local.json": [
+          {
+            "timestamp": "2026-08-03T14:05:33.692Z",
+            "fileName": "/Users/nietao/Documents/HBuilderProjects/zhenhe-internet-hospital-patient-terminal/.smart-commit-pr.local.json",
+            "fileType": ".json",
+            "linesAdded": 110,
+            "linesRemoved": 0,
+            "projectName": "zhenhe-internet-hospital-patient-terminal",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "22": 0
+      },
+      "topFiles": [
+        "/Users/nietao/Documents/HBuilderProjects/zhenhe-internet-hospital-patient-terminal/.smart-commit-pr.local.json"
+      ],
+      "averageChangeSize": 110
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    22
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
