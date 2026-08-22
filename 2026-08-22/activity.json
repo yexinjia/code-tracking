@@ -2,9 +2,9 @@
   "date": "2026-08-22",
   "projects": {
     "mono-test": {
-      "totalLinesAdded": 76,
+      "totalLinesAdded": 154,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 1,
       "files": {
         "/Users/nietao/Library/Application Support/Code/User/settings.json": [
           {
@@ -19,6 +19,36 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/nietao/VSCode-plugins/mono-test/zhenhe-internet-hospital-patient-terminal/test.json": [
+          {
+            "timestamp": "2026-08-22T12:13:57.280Z",
+            "fileName": "/Users/nietao/VSCode-plugins/mono-test/zhenhe-internet-hospital-patient-terminal/test.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-08-22T12:14:15.684Z",
+            "fileName": "/Users/nietao/VSCode-plugins/mono-test/zhenhe-internet-hospital-patient-terminal/test.json",
+            "fileType": ".json",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ]
