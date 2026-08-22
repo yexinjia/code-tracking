@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-22",
+  "projects": {
+    "mono-test": {
+      "totalLinesAdded": 76,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/nietao/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2026-08-22T03:10:58.344Z",
+            "fileName": "/Users/nietao/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 76,
+            "linesRemoved": 0,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "/Users/nietao/Library/Application Support/Code/User/settings.json"
+      ],
+      "averageChangeSize": 76
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
