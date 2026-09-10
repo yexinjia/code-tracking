@@ -79,7 +79,7 @@
       "averageChangeSize": 3
     },
     "mono-test": {
-      "totalLinesAdded": 3,
+      "totalLinesAdded": 150,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -89,6 +89,22 @@
             "fileName": "/Users/nietao/VSCode-plugins/mono-test/.vscode/settings.json",
             "fileType": ".json",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/nietao/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2026-09-10T15:37:03.369Z",
+            "fileName": "/Users/nietao/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 147,
             "linesRemoved": 0,
             "projectName": "mono-test",
             "content": {
