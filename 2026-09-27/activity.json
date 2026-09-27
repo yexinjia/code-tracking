@@ -49,7 +49,7 @@
       "averageChangeSize": 147
     },
     "repo-copilot": {
-      "totalLinesAdded": 464,
+      "totalLinesAdded": 611,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -59,6 +59,22 @@
             "fileName": "/Users/nietao/VSCode-plugins/repo-copilot/package.json",
             "fileType": ".json",
             "linesAdded": 464,
+            "linesRemoved": 0,
+            "projectName": "repo-copilot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/nietao/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2026-09-27T14:11:09.237Z",
+            "fileName": "/Users/nietao/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 147,
             "linesRemoved": 0,
             "projectName": "repo-copilot",
             "content": {
