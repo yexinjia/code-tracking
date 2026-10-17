@@ -2,9 +2,9 @@
   "date": "2026-10-17",
   "projects": {
     "repo-copilot": {
-      "totalLinesAdded": 11547,
+      "totalLinesAdded": 16535,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 2,
       "files": {
         "/Users/nietao/Library/Application Support/Code/User/settings.json": [
           {
@@ -78,6 +78,38 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/nietao/VSCode-plugins/repo-copilot/package.json": [
+          {
+            "timestamp": "2026-10-17T04:47:23.626Z",
+            "fileName": "/Users/nietao/VSCode-plugins/repo-copilot/package.json",
+            "fileType": ".json",
+            "linesAdded": 469,
+            "linesRemoved": 0,
+            "projectName": "repo-copilot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/nietao/VSCode-plugins/repo-copilot/package-lock.json": [
+          {
+            "timestamp": "2026-10-17T04:47:43.886Z",
+            "fileName": "/Users/nietao/VSCode-plugins/repo-copilot/package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 4519,
+            "linesRemoved": 0,
+            "projectName": "repo-copilot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
