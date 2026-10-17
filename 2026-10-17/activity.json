@@ -278,6 +278,39 @@
         "/Users/nietao/VSCode-plugins/smart-commit-cli/package.json"
       ],
       "averageChangeSize": 32.5
+    },
+    "smart-commit-host-agent": {
+      "totalLinesAdded": 69,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/nietao/VSCode-plugins/smart-commit-host-agent/package.json": [
+          {
+            "timestamp": "2026-10-17T10:56:13.633Z",
+            "fileName": "/Users/nietao/VSCode-plugins/smart-commit-host-agent/package.json",
+            "fileType": ".json",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "smart-commit-host-agent",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "18": 0
+      },
+      "topFiles": [
+        "/Users/nietao/VSCode-plugins/smart-commit-host-agent/package.json"
+      ],
+      "averageChangeSize": 69
     }
   },
   "totalActiveTime": 0,
