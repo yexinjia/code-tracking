@@ -65,13 +65,27 @@
       "averageChangeSize": 148
     },
     "mono-test": {
-      "totalLinesAdded": 148,
+      "totalLinesAdded": 296,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
         "/Users/nietao/Library/Application Support/Code/User/settings.json": [
           {
             "timestamp": "2026-10-17T04:07:50.601Z",
+            "fileName": "/Users/nietao/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 148,
+            "linesRemoved": 0,
+            "projectName": "mono-test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-10-17T04:18:07.090Z",
             "fileName": "/Users/nietao/Library/Application Support/Code/User/settings.json",
             "fileType": ".json",
             "linesAdded": 148,
