@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-17",
+  "projects": {
+    "repo-copilot": {
+      "totalLinesAdded": 148,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/nietao/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2026-10-17T03:48:35.691Z",
+            "fileName": "/Users/nietao/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 148,
+            "linesRemoved": 0,
+            "projectName": "repo-copilot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "/Users/nietao/Library/Application Support/Code/User/settings.json"
+      ],
+      "averageChangeSize": 148
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
