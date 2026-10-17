@@ -231,6 +231,53 @@
         "/Users/nietao/VSCode-plugins/smart-commit/package.json"
       ],
       "averageChangeSize": 1050
+    },
+    "smart-commit-cli": {
+      "totalLinesAdded": 65,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/nietao/VSCode-plugins/smart-commit-cli/package.json": [
+          {
+            "timestamp": "2026-10-17T08:44:29.022Z",
+            "fileName": "/Users/nietao/VSCode-plugins/smart-commit-cli/package.json",
+            "fileType": ".json",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "smart-commit-cli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-10-17T08:44:36.263Z",
+            "fileName": "/Users/nietao/VSCode-plugins/smart-commit-cli/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "smart-commit-cli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "16": 1
+      },
+      "topFiles": [
+        "/Users/nietao/VSCode-plugins/smart-commit-cli/package.json"
+      ],
+      "averageChangeSize": 32.5
     }
   },
   "totalActiveTime": 0,
