@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-27",
+  "projects": {
+    "code-server-sync": {
+      "totalLinesAdded": 908,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/nietao/node-packages/code-server-sync/cs_sync/self_test.py": [
+          {
+            "timestamp": "2026-10-27T14:59:48.741Z",
+            "fileName": "/Users/nietao/node-packages/code-server-sync/cs_sync/self_test.py",
+            "fileType": ".py",
+            "linesAdded": 908,
+            "linesRemoved": 0,
+            "projectName": "code-server-sync",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0
+      },
+      "changeFrequency": {
+        "22": 0
+      },
+      "topFiles": [
+        "/Users/nietao/node-packages/code-server-sync/cs_sync/self_test.py"
+      ],
+      "averageChangeSize": 908
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    22
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
